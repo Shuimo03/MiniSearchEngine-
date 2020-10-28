@@ -1,0 +1,251 @@
+movie_actor,movie_country,movie_date,movie_director,movie_name_cn,movie_name_en,movie_rating,movie_type
+,美国,1994,导演:弗兰克·德拉邦特FrankDarabont,肖申克的救赎, / The Shawshank Redemption,9.7,犯罪剧情
+,中国大陆 中国香港,1993,导演:陈凯歌KaigeChen,霸王别姬, / 再见，我的妾  /  Farewell My Concubine,9.6,剧情爱情同性
+,美国,1994,导演:罗伯特·泽米吉斯RobertZemeckis,阿甘正传, / Forrest Gump,9.5,剧情爱情
+,法国 美国,1994,导演:吕克·贝松LucBesson,这个杀手不太冷, / Léon,9.4,剧情动作犯罪
+,美国,1997,导演:詹姆斯·卡梅隆JamesCameron,泰坦尼克号, / Titanic,9.4,剧情爱情灾难
+,意大利,1997,导演:罗伯托·贝尼尼RobertoBenigni,美丽人生, / La vita è bella,9.5,剧情喜剧爱情战争
+,日本,2001,导演:宫崎骏HayaoMiyazaki,千与千寻, / 千と千尋の神隠し,9.4,剧情动画奇幻
+,美国,1993,导演:史蒂文·斯皮尔伯格StevenSpielberg,辛德勒的名单, / Schindler's List,9.5,剧情历史战争
+,美国 英国,2010,导演:克里斯托弗·诺兰ChristopherNolan,盗梦空间, / Inception,9.3,剧情科幻悬疑冒险
+,美国 英国,2009,导演:莱塞·霍尔斯道姆LasseHallström,忠犬八公的故事, / Hachi: A Dog's Tale,9.4,剧情
+,意大利,1998,导演:朱塞佩·托纳多雷GiuseppeTornatore,海上钢琴师, / La leggenda del pianista sull'oceano,9.3,剧情音乐
+,美国 英国 加拿大 冰岛,2014,导演:克里斯托弗·诺兰ChristopherNolan,星际穿越, / Interstellar,9.3,剧情科幻冒险
+,美国,1998,导演:彼得·威尔PeterWeir,楚门的世界, / The Truman Show,9.3,剧情科幻
+,印度,2009,导演:拉库马·希拉尼RajkumarHirani,三傻大闹宝莱坞, / 3 Idiots,9.2,剧情喜剧爱情歌舞
+,美国,2008,导演:安德鲁·斯坦顿AndrewStanton,机器人总动员, / WALL·E,9.3,科幻动画冒险
+,法国 瑞士 德国,2004,导演:克里斯托夫·巴拉蒂ChristopheBarratier,放牛班的春天, / Les choristes,9.3,剧情音乐
+,中国香港 中国大陆,1995,导演:刘镇伟JeffreyLau,大话西游之大圣娶亲, / 西遊記大結局之仙履奇緣,9.2,喜剧爱情奇幻古装
+,韩国,2011,导演:黄东赫Dong-hyukHwang,熔炉, / 도가니,9.3,剧情
+,美国,2016,导演:拜伦·霍华德ByronHoward/瑞奇·摩尔RichMoore,疯狂动物城, / Zootopia,9.2,喜剧动画冒险
+,中国香港,2002,导演:刘伟强/麦兆辉,无间道, / 無間道,9.2,剧情犯罪悬疑
+,美国,1972,导演:弗朗西斯·福特·科波拉FrancisFordCoppola,教父, / The Godfather,9.3,剧情犯罪
+,日本,1988,导演:宫崎骏HayaoMiyazaki,龙猫, / となりのトトロ,9.2,动画奇幻冒险
+,美国,2006,导演:加布里尔·穆奇诺GabrieleMuccino,当幸福来敲门, / The Pursuit of Happyness,9.1,剧情传记家庭
+,美国,2010,导演:罗伯·莱纳RobReiner,怦然心动, / Flipped,9.1,剧情喜剧爱情
+,法国,2011,导演:奥利维·那卡什OlivierNakache/艾力克·托兰达EricToledano,触不可及, / Intouchables,9.2,剧情喜剧
+,美国,1957,导演:比利·怀尔德BillyWilder,控方证人, / Witness for the Prosecution,9.6,剧情犯罪悬疑
+,美国 英国,2008,导演:克里斯托弗·诺兰ChristopherNolan,蝙蝠侠：黑暗骑士, / The Dark Knight,9.2,剧情动作科幻犯罪惊悚
+,中国大陆 中国香港,1994,导演:张艺谋YimouZhang,活着, / 人生  /  Lifetimes,9.3,剧情历史家庭
+,英国 意大利 中国大陆 法国,1987,导演:贝纳尔多·贝托鲁奇BernardoBertolucci,末代皇帝, / The Last Emperor,9.3,剧情传记历史
+,美国,2017,导演:李·昂克里奇LeeUnkrich/阿德里安·莫利纳AdrianMolina,寻梦环游记, / Coco,9.1,喜剧动画奇幻音乐
+,美国,1939,导演:维克多·弗莱明VictorFleming/乔治·库克GeorgeCukor,乱世佳人, / Gone with the Wind,9.3,剧情历史爱情战争
+,黎巴嫩 法国 美国,2018,导演:娜丁·拉巴基NadineLabaki,何以为家, / كفرناحوم,9.1,剧情
+,美国 新西兰,2003,导演:彼得·杰克逊PeterJackson,指环王3：王者无敌, / The Lord of the Rings: The Return of the King,9.2,剧情动作奇幻冒险
+,印度,2016,导演:涅提·蒂瓦里NiteshTiwari,摔跤吧！爸爸, / Dangal,9.0,剧情传记运动家庭
+,美国,2009,导演:彼特·道格特PeteDocter/鲍勃·彼德森BobPeterson,飞屋环游记, / Up,9.0,剧情喜剧动画冒险
+,美国 中国台湾 英国 加拿大,2012,导演:李安AngLee,少年派的奇幻漂流, / Life of Pi,9.1,剧情奇幻冒险
+,美国,1957,导演:SidneyLumet,十二怒汉, / 12 Angry Men,9.4,剧情
+,美国 英国,2001,导演:ChrisColumbus,哈利·波特与魔法石, / Harry Potter and the Sorcerer's Stone,9.1,奇幻冒险
+,韩国,2013,导演:李濬益Jun-ikLee,素媛, / 소원,9.3,剧情
+,中国大陆,2000,导演:姜文WenJiang,鬼子来了, / Devils on the Doorstep,9.3,剧情喜剧
+,日本,2004,导演:宫崎骏HayaoMiyazaki,哈尔的移动城堡, / ハウルの動く城,9.1,动画奇幻冒险
+,日本,1986,导演:宫崎骏HayaoMiyazaki,天空之城, / 天空の城ラピュタ,9.1,动画奇幻冒险
+,中国香港 中国大陆,1995,导演:刘镇伟JeffreyLau,大话西游之月光宝盒, / 西遊記第壹佰零壹回之月光寶盒,9.0,喜剧爱情奇幻古装
+,中国大陆,2018,导演:文牧野MuyeWen,我不是药神, / 中国药神  /  印度药神,9.0,剧情喜剧
+,美国,1953,导演:威廉·惠勒WilliamWyler,罗马假日, / Roman Holiday,9.0,喜剧剧情爱情
+,美国,1992,导演:马丁·布莱斯MartinBrest,闻香识女人, / Scent of a Woman,9.1,剧情
+,意大利 法国,1988,导演:朱塞佩·托纳多雷GiuseppeTornatore,天堂电影院, / Nuovo Cinema Paradiso,9.2,剧情爱情
+,韩国,2013,导演:杨宇硕Woo-seokYang,辩护人, / 변호인,9.2,剧情
+,美国 德国,1999,导演:大卫·芬奇DavidFincher,搏击俱乐部, / Fight Club,9.0,剧情动作悬疑惊悚
+, 1964(中国大陆) ,1961(中国大陆),导演:万籁鸣LaimingWan/唐澄ChengTang,大闹天宫, / 大闹天宫 上下集  /  The Monkey King,9.3,1978(中国大陆)
+,美国,1974,导演:弗朗西斯·福特·科波拉FrancisFordCoppola,教父2, / The Godfather: Part Ⅱ,9.2,剧情犯罪
+,美国 加拿大,2002,导演:史蒂文·斯皮尔伯格StevenSpielberg,猫鼠游戏, / Catch Me If You Can,9.0,传记犯罪剧情
+,美国,1994,导演:RogerAllers/罗伯·明可夫RobMinkoff,狮子王, / The Lion King,9.0,动画冒险歌舞
+,美国,1989,导演:彼得·威尔PeterWeir,死亡诗社, / Dead Poets Society,9.1,剧情
+,美国 新西兰,2002,导演:彼得·杰克逊PeterJackson,指环王2：双塔奇兵, / The Lord of the Rings: The Two Towers,9.1,剧情动作奇幻冒险
+,法国 德国 英国 波兰,2002,导演:罗曼·波兰斯基RomanPolanski,钢琴家, / The Pianist,9.2,剧情传记历史战争音乐
+,德国,2006,导演:弗洛里安·亨克尔·冯·多纳斯马尔克FlorianHenckelvonDonnersmarck,窃听风暴, / Das Leben der Anderen,9.1,剧情悬疑
+,新西兰 美国,2001,导演:彼得·杰克逊PeterJackson,指环王1：魔戒再现, / The Lord of the Rings: The Fellowship of the Ring,9.0,剧情动作奇幻冒险
+,美国 澳大利亚,1999,导演:安迪·沃卓斯基AndyWachowski/拉娜·沃卓斯基LanaWachowski,黑客帝国, / The Matrix,9.0,动作科幻
+,中国台湾 美国,1994,导演:李安AngLee,饮食男女, / 飲食男女,9.1,剧情家庭
+,美国,2001,导演:朗·霍华德RonHoward,美丽心灵, / A Beautiful Mind,9.0,传记剧情
+,英国,1998,导演:GuyRitchie,两杆大烟枪," / Lock, Stock and Two Smoking Barrels",9.1,剧情喜剧犯罪
+,中国大陆 中国香港,2010,导演:姜文WenJiang,让子弹飞, / 让子弹飞一会儿  /  火烧云,8.8,剧情喜剧动作西部
+,美国,1975,导演:米洛斯·福尔曼MilošForman,飞越疯人院, / One Flew Over the Cuckoo's Nest,9.1,剧情
+,美国,2008,导演:大卫·芬奇DavidFincher,本杰明·巴顿奇事, / The Curious Case of Benjamin Button,8.9,剧情爱情奇幻
+,美国,2018,导演:彼得·法雷里PeterFarrelly,绿皮书, / Green Book,8.9,剧情喜剧传记
+,西班牙,2016,导演:奥里奥尔·保罗OriolPaulo,看不见的客人, / Contratiempo,8.8,剧情犯罪悬疑惊悚
+,德国 瑞士 南非,2015,导演:阿兰·葛斯彭纳AlainGsponer,海蒂和爷爷, / Heidi,9.2,剧情冒险家庭
+,意大利 美国,2000,导演:朱塞佩·托纳多雷GiuseppeTornatore,西西里的美丽传说, / Malèna,8.9,剧情战争情色
+,美国,1998,导演:史蒂文·斯皮尔伯格StevenSpielberg,拯救大兵瑞恩, / Saving Private Ryan,9.0,剧情历史战争
+,伊朗,1997,导演:马基德·马基迪MajidMajidi,小鞋子, / بچههای آسمان,9.2,剧情儿童家庭
+,英国 美国,2008,导演:马克·赫尔曼MarkHerman,穿条纹睡衣的男孩, / The Boy in the Striped Pajamas,9.1,剧情战争
+,日本,1995,导演:岩井俊二ShunjiIwai,情书, / Love Letter,8.9,剧情爱情
+,美国,1965,导演:罗伯特·怀斯RobertWise,音乐之声, / The Sound of Music,9.0,剧情传记爱情歌舞
+,美国,2009,导演:路易·西霍尤斯LouiePsihoyos,海豚湾, / The Cove,9.3,纪录片
+,美国 意大利,1984,导演:赛尔乔·莱翁内SergioLeone,美国往事, / Once Upon a Time in America,9.2,犯罪剧情
+,英国 美国,2006,导演:克里斯托弗·诺兰ChristopherNolan,致命魔术, / The Prestige,8.9,剧情悬疑惊悚
+,美国,1994,导演:昆汀·塔伦蒂诺QuentinTarantino,低俗小说, / Pulp Fiction,8.9,剧情喜剧犯罪
+,美国,1991,导演:乔纳森·戴米JonathanDemme,沉默的羔羊, / The Silence of the Lambs,8.8,剧情犯罪惊悚
+,美国,1995,导演:大卫·芬奇DavidFincher,七宗罪, / Se7en,8.8,剧情犯罪悬疑惊悚
+,美国,2010,导演:MartinScorsese,禁闭岛, / Shutter Island,8.8,剧情悬疑惊悚
+,美国 加拿大,2004,导演:埃里克·布雷斯EricBress/J·麦基·格鲁伯J.MackyeGruber,蝴蝶效应, / The Butterfly Effect,8.8,剧情悬疑科幻惊悚
+,美国,1997,导演:格斯·范·桑特GusVanSant,心灵捕手, / Good Will Hunting,8.9,剧情
+,美国 德国 英国,2014,导演:韦斯·安德森WesAnderson,布达佩斯大饭店, / The Grand Budapest Hotel,8.8,剧情喜剧冒险
+,中国香港 日本 韩国,1997,导演:王家卫KarWaiWong,春光乍泄, / 春光乍洩,8.9,剧情爱情同性
+,日本,2006,导演:中岛哲也TetsuyaNakashima,被嫌弃的松子的一生, / 嫌われ松子の一生,8.9,剧情歌舞
+,美国,1936,导演:查理·卓别林CharlesChaplin,摩登时代, / Modern Times,9.3,剧情喜剧爱情
+,美国 英国,2009,导演:詹姆斯·卡梅隆JamesCameron,阿凡达, / Avatar,8.7,动作科幻冒险
+,美国 英国,2011,导演:大卫·叶茨DavidYates,哈利·波特与死亡圣器(下), / Harry Potter and the Deathly Hallows: Part 2,8.9,奇幻冒险
+,美国,1990,导演:蒂姆·波顿TimBurton,剪刀手爱德华, / Edward Scissorhands,8.7,剧情奇幻爱情
+,中国香港,1999,导演:周星驰StephenChow/李力持Lik-ChiLee,喜剧之王, / 喜劇之王,8.8,喜剧剧情爱情
+,美国,1995,导演:梅尔·吉布森MelGibson,勇敢的心, / Braveheart,8.9,动作传记剧情历史战争
+,美国,2003,导演:詹姆斯·曼高德JamesMangold,致命ID, / Identity,8.8,剧情悬疑惊悚
+,美国,2003,导演:戈尔·维宾斯基GoreVerbinski,加勒比海盗, / Pirates of the Caribbean: The Curse of the Black Pearl,8.8,动作冒险奇幻
+,韩国,2003,导演:奉俊昊Joon-hoBong,杀人回忆, / 살인의 추억,8.8,剧情动作犯罪悬疑惊悚
+,法国 德国,2001,导演:让-皮埃尔·热内Jean-PierreJeunet,天使爱美丽, / Le fabuleux destin d'Amélie Poulain,8.7,喜剧爱情
+,丹麦 瑞典,2012,导演:托马斯·温特伯格ThomasVinterberg,狩猎, / Jagten,9.1,剧情
+,美国 加拿大,2005,导演:李安AngLee,断背山, / Brokeback Mountain,8.8,剧情爱情同性家庭
+,意大利 法国 巴西 美国 荷兰 德国,2017,导演:卢卡·瓜达尼诺LucaGuadagnino,请以你的名字呼唤我, / Call Me by Your Name,8.9,剧情爱情同性
+,韩国,2013,导演:李焕庆Hwan-kyeongLee,7号房的礼物, / 7번방의 선물,8.9,剧情喜剧家庭
+,日本,1997,导演:宫崎骏HayaoMiyazaki,幽灵公主, / もののけ姫,8.9,动画奇幻冒险
+,日本,2006,导演:今敏SatoshiKon,红辣椒, / パプリカ,9.0,动画悬疑科幻惊悚
+,中国大陆 中国香港,1994,导演:姜文WenJiang,阳光灿烂的日子, / In the Heat of the Sun,8.8,剧情爱情
+,日本,2014,导演:森淳一JunichiMori,小森林 夏秋篇, / リトル・フォレスト 夏・秋,9.0,剧情
+,美国,1999,导演:M·奈特·沙马兰M.NightShyamalan,第六感, / The Sixth Sense,8.9,剧情悬疑惊悚
+,中国香港,1994,导演:王家卫KarWaiWong,重庆森林, / 重慶森林,8.7,剧情爱情
+,日本,2008,导演:泷田洋二郎YôjirôTakita,入殓师, / おくりびと,8.8,剧情
+,日本,2015,导演:森淳一JunichiMori,小森林 冬春篇, / リトル・フォレスト 冬・春,9.0,剧情
+,美国,2014,导演:大卫·芬奇DavidFincher,消失的爱人, / Gone Girl,8.7,剧情犯罪悬疑惊悚
+,美国 奥地利 瑞士,1995,导演:理查德·林克莱特RichardLinklater,爱在黎明破晓前, / Before Sunrise,8.8,剧情爱情
+,中国香港,1993,导演:李力持Lik-ChiLee,唐伯虎点秋香, / 唐伯虎點秋香,8.6,喜剧爱情古装
+,中国台湾 日本,2000,导演:杨德昌EdwardYang,一一, / Yi yi  /  Yi yi: A One and a Two,9.0,剧情爱情家庭
+,美国 英国,2012,导演:克里斯托弗·诺兰ChristopherNolan,蝙蝠侠：黑暗骑士崛起, / The Dark Knight Rises,8.8,剧情动作科幻犯罪惊悚
+,日本,1999,导演:北野武TakeshiKitano,菊次郎的夏天, / 菊次郎の夏,8.8,剧情喜剧
+,日本,1995,导演:近藤喜文YoshifumiKondo,侧耳倾听, / 耳をすませば,8.9,剧情爱情动画
+,美国,2011,导演:托尼·凯耶TonyKaye,超脱, / Detachment,8.9,剧情
+,中国香港,1987,导演:程小东Siu-TungChing,倩女幽魂, / 倩女幽魂(87版)  /  倩女幽魂：妖魔道,8.7,爱情奇幻武侠古装
+,日本,2004,导演:是枝裕和HirokazuKoreeda,无人知晓, / 誰も知らない,9.1,剧情
+,美国,2014,导演:唐·霍尔DonHall/克里斯·威廉姆斯ChrisWilliams,超能陆战队, / Big Hero 6,8.7,喜剧动作科幻动画冒险
+,澳大利亚,2009,导演:亚当·艾略特AdamElliot,玛丽和马克思, / Mary and Max,8.9,剧情喜剧动画
+,中国香港,1996,导演:陈可辛PeterChan,甜蜜蜜, / Comrades: Almost a Love Story,8.8,剧情爱情
+,日本,2011,导演:大森贵弘TakahiroOmori,萤火之森, / 蛍火の杜へ,8.9,剧情爱情动画奇幻
+,日本,2010,导演:中岛哲也TetsuyaNakashima,告白, / 自白  /  母亲,8.7,剧情惊悚
+,日本,2010,导演:米林宏昌HiromasaYonebayashi,借东西的小人阿莉埃蒂, / 借りぐらしのアリエッティ,8.8,动画奇幻冒险
+,美国,2010,导演:迪恩·德布洛斯DeanDeBlois/克里斯·桑德斯ChrisSanders,驯龙高手, / How to Train Your Dragon,8.7,动画奇幻冒险
+,美国,2003,导演:蒂姆·波顿TimBurton,大鱼, / Big Fish,8.8,剧情家庭奇幻冒险
+,韩国,2011,导演:姜炯哲Hyeong-CheolKang,阳光姐妹淘, / 써니,8.8,剧情喜剧
+,美国 法国,2004,导演:理查德·林克莱特RichardLinklater,爱在日落黄昏时, / Before Sunset,8.8,剧情爱情
+,美国,2004,导演:史蒂文·斯皮尔伯格StevenSpielberg,幸福终点站, / The Terminal,8.8,喜剧剧情爱情
+,中国香港,1993,导演:刘镇伟JeffreyLau,射雕英雄传之东成西就, / 射鵰英雄傳之東成西就,8.7,喜剧奇幻武侠古装
+,中国大陆 中国香港,2004,导演:周星驰StephenChow,功夫, / 功夫3D  /  Kung Fu Hustle,8.6,动作喜剧犯罪奇幻
+,日本,2017,导演:伏原健之KenshiFushihara,人生果实, / 人生フルーツ,9.5,纪录片
+,美国,1993,导演:克林特·伊斯特伍德ClintEastwood,完美的世界, / A Perfect World,9.1,剧情犯罪
+,韩国,2013,导演:金秉祐Byeong-wooKim,恐怖直播, / 더 테러 라이브,8.8,剧情犯罪悬疑
+,美国 法国,2010,导演:皮艾尔·柯芬PierreCoffin/克里斯·雷纳德ChrisRenaud,神偷奶爸, / Despicable Me,8.6,喜剧动画冒险
+,美国,2001,导演:彼特·道格特PeteDocter/大卫·斯沃曼DavidSilverman,怪兽电力公司," / Monsters, Inc.",8.7,儿童喜剧动画奇幻冒险
+,中国大陆,1983(中国大陆),导演:王树忱ShuchenWang/钱运达YundaQian,天书奇谭, / The Legend of Sealed Book  /  Secrets of the Heavenly Book,9.2,动画奇幻
+,美国,2010,导演:李·昂克里奇LeeUnkrich,玩具总动员3, / Toy Story 3,8.8,喜剧动画奇幻冒险
+,英国 美国,2004,导演:AlfonsoCuarón,哈利·波特与阿兹卡班的囚徒, / Harry Potter and the Prisoner of Azkaban,8.7,奇幻冒险
+,法国 英国 美国,2005,导演:乔·怀特JoeWright,傲慢与偏见, / Pride & Prejudice,8.6,剧情爱情
+,美国 澳大利亚,2016,导演:梅尔·吉布森MelGibson,血战钢锯岭, / Hacksaw Ridge,8.7,剧情传记历史战争
+,美国,1990,导演:弗朗西斯·福特·科波拉FrancisFordCoppola,教父3, / The Godfather: Part III,8.9,剧情犯罪
+,英国,2013,导演:理查德·柯蒂斯RichardCurtis,时空恋旅人, / About Time,8.7,喜剧爱情奇幻
+,韩国,2016,导演:延尚昊Sang-hoYeon,釜山行, / 부산행,8.5,动作惊悚灾难
+,日本,1984,导演:宫崎骏HayaoMiyazaki,风之谷, / 風の谷のナウシカ,8.9,动画奇幻冒险
+,中国大陆,1979,导演:严定宪DingxianYan/王树忱ShuchenWang,哪吒闹海, / Prince Nezha's Triumph Against Dragon King  /  Nezha Conquers the Dragon King,9.1,冒险动画奇幻
+,美国,2012,导演:昆汀·塔伦蒂诺QuentinTarantino,被解救的姜戈, / Django Unchained,8.7,剧情动作西部冒险
+,美国,2004,导演:詹姆斯·温JamesWan,电锯惊魂, / Saw,8.7,悬疑惊悚恐怖
+,中国台湾 美国,1993,导演:李安AngLee,喜宴, / 囍宴,8.9,剧情喜剧爱情同性家庭
+,巴西 法国,2002,导演:费尔南多·梅里尔斯FernandoMeirelles/卡迪亚·兰德KátiaLund,上帝之城, / Cidade de Deus,8.9,犯罪剧情
+,日本,1954,导演:黑泽明AkiraKurosawa,七武士, / 七人の侍,9.3,动作冒险剧情
+,美国 英国 德国,2002,导演:ChrisColumbus,哈利·波特与密室, / Harry Potter and the Chamber of Secrets,8.7,奇幻冒险
+,美国,2001,导演:杰茜·尼尔森JessieNelson,我是山姆, / I Am Sam,8.9,剧情家庭
+,中国香港,1986,导演:吴宇森JohnWoo,英雄本色, / A Better Tomorrow  /  Gangland Boss,8.7,剧情动作犯罪
+,美国 德国,2007,导演:保罗·格林格拉斯PaulGreengrass,谍影重重3, / The Bourne Ultimatum,8.8,动作悬疑惊悚
+,美国,2018,导演:史蒂文·斯皮尔伯格StevenSpielberg,头号玩家, / Ready Player One,8.7,动作科幻冒险
+,瑞典,2015,导演:汉内斯·赫尔姆HannesHolm,一个叫欧维的男人决定去死, / En man som heter Ove,8.8,剧情
+,中国香港 中国大陆,2010,导演:罗启锐AlexLaw,岁月神偷, / 歲月神偷,8.7,剧情家庭
+,美国 英国,2017,导演:马丁·麦克唐纳MartinMcDonagh,三块广告牌," / Three Billboards Outside Ebbing, Missouri",8.7,剧情犯罪
+,中国香港,1991,导演:吴宇森JohnWoo,纵横四海, / 緃横四海,8.8,剧情喜剧动作犯罪
+,美国,2013,导演:科克·德·米科KirkDeMicco/克里斯·桑德斯ChrisSanders,疯狂原始人, / The Croods,8.7,喜剧动画冒险
+,美国,2013,导演:让-马克·瓦雷Jean-MarcVallée,达拉斯买家俱乐部, / Dallas Buyers Club,8.8,剧情传记同性
+,中国大陆,2014,导演:忻钰坤YukunXin,心迷宫, / 殡棺  /  The Coffin in the Mountain,8.7,剧情犯罪悬疑
+,美国,2000,导演:克里斯托弗·诺兰ChristopherNolan,记忆碎片, / Memento,8.6,犯罪剧情悬疑惊悚
+,英国 南非 意大利,2004,导演:特瑞·乔治TerryGeorge,卢旺达饭店, / Hotel Rwanda,8.9,剧情传记历史战争
+,中国香港,2000,导演:王家卫KarWaiWong,花样年华, / 花樣年華,8.7,剧情爱情
+,日本,1997,导演:今敏SatoshiKon,未麻的部屋, / Perfect Blue,9.0,动画奇幻惊悚
+,日本,2016,导演:新海诚MakotoShinkai,你的名字。, / 君の名は。,8.4,剧情爱情动画
+,阿根廷 西班牙,2014,导演:达米安·斯兹弗隆DamiánSzifron,荒蛮故事, / Relatos salvajes,8.8,剧情喜剧犯罪
+,美国 澳大利亚,2003,导演:AndyWachowski/LarryWachowski,黑客帝国3：矩阵革命, / The Matrix Revolutions,8.8,动作科幻
+,日本,1988,导演:高畑勋IsaoTakahata,萤火虫之墓, / 火垂るの墓,8.7,动画剧情战争
+,英国 美国,2014,导演:莫滕·泰杜姆MortenTyldum,模仿游戏, / The Imitation Game,8.7,剧情传记战争同性
+,美国,2014,导演:达米恩·查泽雷DamienChazelle,爆裂鼓手, / Whiplash,8.7,剧情音乐
+,英国,2008,导演:丹尼·鲍尔DannyBoyle/洛芙琳·坦丹LoveleenTandan,贫民窟的百万富翁, / Slumdog Millionaire,8.6,剧情爱情
+,中国香港 中国台湾,1994,导演:王家卫KarWaiWong,东邪西毒, / 東邪西毒,8.6,剧情动作爱情武侠古装
+,英国 美国 法国,2003,导演:理查德·柯蒂斯RichardCurtis,真爱至上, / Love Actually,8.6,喜剧剧情爱情
+,日本,1987,导演:SeijirôKôyama,忠犬八公物语, / ハチ公物語,9.2,剧情
+,韩国,2013,导演:朴勋政Hoon-jungPark,新世界, / 신세계,8.8,剧情犯罪
+,美国,2010,导演:达伦·阿罗诺夫斯基DarrenAronofsky,黑天鹅, / Black Swan,8.6,剧情惊悚
+,美国,2015,导演:彼特·道格特PeteDocter/罗纳尔多·德尔·卡门RonaldoDelCarmen,头脑特工队, / Inside Out,8.7,喜剧动画冒险
+,日本,2015,导演:是枝裕和HirokazuKoreeda,海街日记, / 海街diary,8.8,剧情家庭
+,日本,2010,导演:藤森雅也MasayaFujimori,你看起来好像很好吃, / おまえうまそうだな,8.9,剧情动画儿童
+,美国,2012,导演:瑞奇·莫尔RichMoore,无敌破坏王, / Wreck-It Ralph,8.7,喜剧动画奇幻冒险
+,美国,1988,导演:巴瑞·莱文森BarryLevinson,雨人, / Rain Man,8.7,剧情
+,美国,1960,导演:阿尔弗雷德·希区柯克AlfredHitchcock,惊魂记, / Psycho,9.0,悬疑惊悚恐怖
+,美国,2002,导演:卡洛斯·沙尔丹哈CarlosSaldanha/克里斯·韦奇ChrisWedge,冰川时代, / Ice Age,8.6,喜剧动画冒险
+,美国,2004,导演:尼克·卡索维茨NickCassavetes,恋恋笔记本, / The Notebook,8.5,剧情爱情
+,日本,2018,导演:是枝裕和HirokazuKoreeda,小偷家族, / 万引き家族,8.7,剧情犯罪家庭
+,美国,1999,导演:FrankDarabont,绿里奇迹, / The Green Mile,8.8,犯罪剧情奇幻悬疑
+,英国 澳大利亚,2009,导演:克里斯托弗·史密斯ChristopherSmith,恐怖游轮, / Triangle,8.5,剧情悬疑惊悚
+,中国大陆 中国香港,2006,导演:宁浩HaoNing,疯狂的石头, / Crazy Stone,8.5,喜剧犯罪
+,美国,2016,导演:肯尼斯·罗纳根KennethLonergan,海边的曼彻斯特, / Manchester by the Sea,8.6,剧情家庭
+,中国大陆,2015,导演:郭柯KeGuo,二十二, / Twenty Two  /  22,8.7,纪录片
+,美国 中国香港,2017,导演:斯蒂芬·卓博斯基StephenChbosky,奇迹男孩, / Wonder,8.6,剧情儿童家庭
+,美国 希腊,2013,导演:理查德·林克莱特RichardLinklater,爱在午夜降临前, / Before Midnight,8.8,剧情爱情
+,爱尔兰 加拿大 英国 美国,2015,导演:伦尼·阿伯拉罕森LennyAbrahamson,房间, / Room,8.8,剧情家庭
+,日本,1989,导演:宫崎骏HayaoMiyazaki,魔女宅急便, / 魔女の宅急便,8.6,动画奇幻冒险
+,美国,1952,导演:斯坦利·多南StanleyDonen/吉恩·凯利GeneKelly,雨中曲, / Singin' in the Rain,9.0,喜剧歌舞爱情
+,法国 英国,1966,导演:杰拉尔·乌里GérardOury,虎口脱险, / La grande vadrouille,8.9,喜剧战争
+,美国,2001,导演:史蒂文·斯皮尔伯格StevenSpielberg,人工智能, / Artificial Intelligence: AI,8.6,剧情科幻
+,日本,1950,导演:黑泽明AkiraKurosawa,罗生门, / 羅生門,8.8,剧情犯罪悬疑
+,美国 法国,1991,导演:詹姆斯·卡梅隆JamesCameron,终结者2：审判日, / Terminator 2: Judgment Day,8.7,动作科幻
+,中国大陆 中国香港,2004,导演:陆川ChuanLu,可可西里, / Kekexili: Mountain Patrol,8.8,剧情犯罪
+,泰国,2010,导演:普特鹏·普罗萨卡·那·萨克那卡林PuttipongPromsakaNaSakolnakorn/华森·波克彭...,初恋这件小事, / สิ่งเล็กเล็กที่เรียกว่า...รัก,8.4,剧情喜剧爱情
+,英国 美国,1968,导演:斯坦利·库布里克StanleyKubrick,2001太空漫游, / 2001: A Space Odyssey,8.8,科幻惊悚冒险
+,英国 美国,2005,导演:迈克·内威尔MikeNewell,哈利·波特与火焰杯, / Harry Potter and the Goblet of Fire,8.6,悬疑奇幻冒险
+,美国,1931,导演:CharlesChaplin,城市之光, / City Lights,9.3,喜剧剧情爱情
+,美国,1940,导演:茂文·勒鲁瓦MervynLeRoy,魂断蓝桥, / Waterloo Bridge,8.8,剧情爱情战争
+,中国台湾 中国大陆 美国 中国香港,2007,导演:李安AngLee,色，戒, / 色|戒  /  色·戒,8.5,剧情爱情情色
+,中国台湾,1991,导演:杨德昌EdwardYang,牯岭街少年杀人事件, / 牯嶺街少年殺人事件,8.8,剧情犯罪
+,法国 瑞士 西班牙 美国 阿联酋,2009,导演:雅克·贝汉JacquesPerrin/雅克·克鲁奥德JacquesCluzaud,海洋, / Océans,9.1,纪录片
+,中国香港,1994,导演:王晶JingWong,九品芝麻官, / 九品芝麻官之白面包青天  /  Hail the Judge,8.5,剧情喜剧古装
+,美国,1994,导演:爱德华·兹威克EdwardZwick,燃情岁月, / Legends of the Fall,8.8,剧情爱情战争西部
+,中国香港 中国大陆,1992,导演:李惠民RaymondLee,新龙门客栈, / 新龍門客棧,8.6,动作爱情武侠古装
+,美国 加拿大,2011,导演:邓肯·琼斯DuncanJones,源代码, / Source Code,8.5,科幻悬疑惊悚
+,美国,2007,导演:罗伯·莱纳RobReiner,遗愿清单, / The Bucket List,8.6,冒险喜剧剧情
+,中国香港 中国大陆,1993,导演:徐克HarkTsui,青蛇, / Green Snake,8.6,剧情爱情奇幻古装
+,日本,2006,导演:细田守MamoruHosoda,穿越时空的少女, / 時をかける少女,8.6,剧情爱情科幻动画
+,德国 美国,2009,导演:QuentinTarantino,无耻混蛋, / Inglourious Basterds,8.6,剧情犯罪
+,中国台湾,2017,导演:黄信尧Hsin-yaoHuang,大佛普拉斯, / The Great Buddha+,8.7,剧情喜剧
+,中国香港,1990,导演:王家卫KarWaiWong,阿飞正传, / 阿飛正傳,8.5,犯罪剧情爱情
+,美国 德国,2006,导演:爱德华·兹威克EdwardZwick,血钻, / Blood Diamond,8.7,剧情惊悚冒险
+,意大利,2016,导演:保罗·格诺维瑟PaoloGenovese,完美陌生人, / Perfetti sconosciuti,8.5,剧情喜剧
+,澳大利亚 南非,2015,导演:乔治·米勒GeorgeMiller,疯狂的麦克斯4：狂暴之路, / Mad Max: Fury Road,8.6,动作科幻冒险
+,美国 德国,2004,导演:保罗·格林格拉斯PaulGreengrass,谍影重重2, / The Bourne Supremacy,8.7,动作悬疑惊悚
+,日本,2008,导演:是枝裕和HirokazuKoreeda,步履不停, / 歩いても 歩いても,8.8,剧情家庭
+,印度,2007,导演:阿米尔·汗AamirKhan,地球上的星星, / Taare Zameen Par,8.9,剧情儿童家庭
+,德国 法国 西班牙 美国,2006,导演:汤姆·提克威TomTykwer,香水, / Perfume: The Story of a Murderer,8.5,剧情犯罪奇幻
+,英国 美国,2018,导演:布莱恩·辛格BryanSinger,波西米亚狂想曲, / Bohemian Rhapsody,8.7,剧情传记同性音乐
+,美国 英国,2013,导演:詹姆斯·沃德·布柯特JamesWardByrkit,彗星来的那一夜, / Coherence,8.5,科幻悬疑惊悚
+,美国 法国,2005,导演:安德鲁·尼科尔AndrewNiccol,战争之王, / Lord of War,8.7,剧情犯罪
+,美国 德国 捷克,2002,导演:道格·里曼DougLiman,谍影重重, / The Bourne Identity,8.6,动作悬疑惊悚
+,美国 德国,2008,导演:史蒂芬·戴德利StephenDaldry,朗读者, / The Reader,8.6,剧情爱情
+,英国,1996,导演:丹尼·博伊尔DannyBoyle,猜火车, / Trainspotting,8.5,剧情犯罪
+,德国,2008,导演:丹尼斯·甘塞尔DennisGansel,浪潮, / Die Welle,8.7,剧情惊悚
+,日本,1953,导演:小津安二郎YasujirôOzu,东京物语, / 東京物語,9.2,剧情家庭
+,美国,2013,导演:约翰·卡尼JohnCarney,再次出发之纽约遇见你, / Begin Again,8.6,喜剧爱情音乐
+,美国,1997,导演:安德鲁·尼科尔AndrewNiccol,千钧一发, / Gattaca,8.8,剧情科幻惊悚
+,美国,2015,导演:托马斯·麦卡锡ThomasMcCarthy,聚焦, / Spotlight,8.8,剧情传记
+,中国大陆,2016,导演:周申ShenZhou/刘露LuLiu,驴得水, / Mr. Donkey,8.3,剧情喜剧
+,印度,2015,导演:卡比尔·汗KabirKhan,小萝莉的猴神大叔, / Bajrangi Bhaijaan,8.4,剧情喜剧动作
+,英国,1998,导演:克里斯托弗·诺兰ChristopherNolan,追随, / Following,8.9,犯罪悬疑惊悚
+,韩国,2019,导演:奉俊昊Joon-hoBong,寄生虫, / 기생충,8.7,剧情喜剧
+,美国 澳大利亚,2003,导演:AndyWachowski/LarryWachowski,黑客帝国2：重装上阵, / The Matrix Reloaded,8.6,动作科幻
+,韩国,2011,导演:秋昌民Chang-minChoo,我爱你, / 그대를 사랑합니다,9.0,剧情爱情
+,美国,2001,导演:雷德利·斯科特RidleyScott,黑鹰坠落, / Black Hawk Down,8.7,动作历史战争
+,伊朗 法国,2011,导演:阿斯哈·法哈蒂AsgharFarhadi,一次别离, / جدایی نادر از سیمین,8.7,剧情家庭
+,美国 俄罗斯,2018,导演:阿尼什·查甘蒂AneeshChaganty,网络谜踪, / Searching,8.6,剧情犯罪悬疑惊悚
+,英国 美国,1971,导演:斯坦利·库布里克StanleyKubrick,发条橙, / A Clockwork Orange,8.6,犯罪剧情科幻
+,中国大陆,2017,导演:陆庆屹LuQingYi,四个春天, / Four Springs,8.9,纪录片家庭
