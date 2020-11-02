@@ -16,3 +16,12 @@ class DoubanItem250(scrapy.Item):
     movie_actor = scrapy.Field()
     movie_rating = scrapy.Field()
     
+class doubanAllMovie(scrapy.Item):
+    movie_name_cn = scrapy.Field() #中文名
+    movie_name_en = scrapy.Field() #外文名或者其他名
+    movie_director = scrapy.Field() #电影主演
+    movie_type = scrapy.Field() #电影类型
+    #movie_language = scrapy.Field() #电影语言
+    movie_date = scrapy.Field() #上映时间
+    # movie_actor = scrapy.Field() #电影主演
+    # movie_rating = scrapy.Field() #电影评分
