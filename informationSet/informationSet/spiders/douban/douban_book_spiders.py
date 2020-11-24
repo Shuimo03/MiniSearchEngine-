@@ -1,5 +1,18 @@
-url = "https://book.douban.com/tag/"
-urlist = ['小说','外国文学','文学','经典','中国文学',
+# //div//ul[@class = 'subject-list']/li/div/h2/a 书名
+# //div//ul[@class = 'subject-list']/li/div/div/span[@class = "rating_nums"] 评分
+# //div//ul[@class = 'subject-list']/li/div/div[@class="pub"] 书籍信息
+# //div//ul[@class = 'subject-list']/li/div/p 书评
+
+from scrapy import Request
+from scrapy import Spider
+from informationSet.items import doubanBookItem
+
+class doubanBook(Spider):
+    name = 'douBanBook'
+
+    def start_requests(self):
+        url = "https://book.douban.com/tag/"
+        urlist = ['小说','外国文学','文学','经典','中国文学',
             '随笔','日本文学','散文','村上春树','诗歌','童话',
             '名著','儿童文学','古典文学','余华','王小波','杂文',
             '当代文学','张爱玲','外国名著','米兰·昆德拉','杜拉斯',
@@ -20,5 +33,21 @@ urlist = ['小说','外国文学','文学','经典','中国文学',
             '科普','互联网','科学','编程','交互设计','算法','用户体验',	'科技',
             'web','交互','通信','UE','神经网络','UCD','程序'
             ]
-for i in urlist:
-    print(url+i)
+        for bookURL in urlist:
+            yield Request(url+bookURL)
+        
+    def parse(self,response):
+        item = doubanBookItem()
+        bookes = response.xpath('//div//ul[@class = "subject-list"]')
+        #bookes = response.xpath('//*[@id="subject_list"]/ul//li')
+        for book in bookes:
+            item['book_name'] = book.xpath('.//li/div/h2/a/text()').extract()[2].replace("\n", "").replace(" ", "")
+            item['book_information'] = book.xpath('.//div[@class="pub"]').extract()[0].replace("\n", "").replace(" ", "")
+            item['book_rating_nums'] = book.xpath('.//span[@class = "rating_nums"]/text()').extract()[0]
+            item['book_review'] = book.xpath('.//li/div/p/text()').extract()[0]
+            yield item
+    
+        next_url = response.xpath('//span[@class="next"]/a/@href').extract()
+        if next_url:
+            next_url = 'https://music.douban.com/' + next_url[0]
+            yield Request(next_url)

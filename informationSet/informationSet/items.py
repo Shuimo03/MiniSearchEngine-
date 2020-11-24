@@ -21,3 +21,10 @@ class doubanMusicItem(scrapy.Item):
     music_singer = scrapy.Field() #歌手信息
     music_rating_nums = scrapy.Field() #歌曲评分
 
+
+class doubanBookItem(scrapy.Item):
+    book_name = scrapy.Field() # 书名
+    book_information = scrapy.Field() # 书籍信息
+    book_rating_nums = scrapy.Field() # 书籍评分
+    book_review = scrapy.Field() # 书评
+    
