@@ -6,7 +6,7 @@
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
-from sqlalchemy  import create_engine,Column,Integer,String,Table,DECIMAL
+from sqlalchemy  import create_engine,Column,Integer,String,Table,DECIMAL,Integer,TEXT
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 
@@ -67,6 +67,35 @@ class douban_music__pipelines(object):
             music_cn = item['music_cn'],
             music_singer =  item['music_singer'],
             music_rating_nums = item['music_rating_nums']
+        )
+
+        try:
+            session.add(res)
+            session.commit()
+        except:
+            session.rollback()
+            raise
+        finally:
+            session.close()
+        return item
+    
+class doubanBook(Base):
+    __tablename__ = 'douban_book'
+    id = Column(Integer,primary_key = True)
+    book_name = Column(String(100))
+    book_information  = Column(String(100))
+    book_rating_nums = Column(DECIMAL(10,2))
+    book_review =  Column(TEXT)
+
+    Base.metadata.create_all(engine)
+
+class douban_book__pipelines(object):
+    def process_item(self,item,spider):
+        res = doubanBook(
+            book_name = item['book_name'],
+            book_information =  item['book_information'],
+            book_rating_nums = item['book_rating_nums'],
+            book_review = item['book_review']
         )
     
         try:

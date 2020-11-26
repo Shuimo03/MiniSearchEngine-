@@ -66,7 +66,8 @@ DOWNLOAD_DELAY = 5 #每个5秒访问一次
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     'informationSet.pipelines.douban_top250_pipelines': 301,
-    'informationSet.pipelines.douban_music__pipelines':300
+    'informationSet.pipelines.douban_music__pipelines':300,
+    'informationSet.pipelines.douban_book__pipelines':299
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

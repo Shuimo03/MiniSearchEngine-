@@ -41,8 +41,8 @@ class doubanBook(Spider):
         bookes = response.xpath('//div//ul[@class = "subject-list"]')
         #bookes = response.xpath('//*[@id="subject_list"]/ul//li')
         for book in bookes:
-            item['book_name'] = book.xpath('.//li/div/h2/a/text()').extract()[2].replace("\n", "").replace(" ", "")
-            item['book_information'] = book.xpath('.//div[@class="pub"]').extract()[0].replace("\n", "").replace(" ", "")
+            item['book_name'] = book.xpath('.//li/div/h2/a/text()').extract()[0].replace("\n", "").replace(" ", "")
+            item['book_information'] = book.xpath('.//div[@class="pub"]').extract()[0].replace("\n", "").replace(" ", "").replace("div","").replace('<class="pub">',"").replace("</>","")
             item['book_rating_nums'] = book.xpath('.//span[@class = "rating_nums"]/text()').extract()[0]
             item['book_review'] = book.xpath('.//li/div/p/text()').extract()[0]
             yield item
