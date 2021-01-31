@@ -6,7 +6,25 @@
 import scrapy
 
 
-class InformationsetItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+class DoubanItem250(scrapy.Item):
+    movie_name_cn = scrapy.Field()
+    movie_name_alias = scrapy.Field()
+    movie_director = scrapy.Field()
+    movie_type = scrapy.Field()
+    movie_country = scrapy.Field()
+    movie_date = scrapy.Field()
+    movie_actor = scrapy.Field()
+    movie_rating = scrapy.Field()
+    
+class doubanMusicItem(scrapy.Item):
+    music_cn = scrapy.Field() #歌曲名字
+    music_singer = scrapy.Field() #歌手信息
+    music_rating_nums = scrapy.Field() #歌曲评分
+
+
+class doubanBookItem(scrapy.Item):
+    book_name = scrapy.Field() # 书名
+    book_information = scrapy.Field() # 书籍信息
+    book_rating_nums = scrapy.Field() # 书籍评分
+    book_review = scrapy.Field() # 书评
+    
